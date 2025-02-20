@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niranjan Titirmare</h1>
-<h3 align="center">Software Engineer and developing a scalable IT solutions</h3>
+<h3 align="center">A highly motivated Information Technology graduate with a Postgraduate Diploma in Advanced Computing, proficient in Java, MySQL, Oracle, JavaScript, and React.js. Eager to apply technical expertise in Software Engineering, Software Development, and Java Development. Passionate about delivering insightful, application-driven solutions, with a keen interest in continuous learning and professional growth. Seeking opportunities to contribute to innovative projects in a dynamic, collaborative work environment.</h3>
 
 <img align="right" alt="coding"width="400" src="https://giphy.com/gifs/pudgypenguins-lie-dev-data-doesnt-LaVp0AyqR5bGsC5Cbm">
 
